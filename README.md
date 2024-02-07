@@ -1,8 +1,9 @@
 # Level1Downloader
 1) Install required node modules 
    $ npm install puppeteer
-2) Edit credientals
+1.2)add link to chrome in script defaults for Linux and windows commented out uncomment the line you need
+3) Edit credientals
    $ vi credential.json
-3) Run script with nodejs
+4) Run script with nodejs
    $ node script.js
-4) Profit  
+5) Profit  
